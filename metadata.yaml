@@ -1,0 +1,30 @@
+_repo: The-Man-of-Destiny_4024
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    alias: Shaw, George Bernard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: 'Arena Stage, Zelda Fichandler presents, 3: "Bedtime Story," by Sean
+  O''Casey, "Portrait of a Madonna," by Tennessee Williams, "Man of Destiny," by George
+  Bernard Shaw, directed by John O''Shaughnessy, setting by Robert Conley, lighting
+  by Leo Gallenstein, costumes by Jane Stanhope.'
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Drama'
+- !lcsh 'Italy -- Drama'
+- GITenberg
+title: The Man of Destiny
+url: http://www.gutenberg.org/ebooks/4024
